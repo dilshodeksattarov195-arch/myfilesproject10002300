@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routeruecrypt",
+        "uuid": 9837100,
+        "checksum": "z2q03"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
